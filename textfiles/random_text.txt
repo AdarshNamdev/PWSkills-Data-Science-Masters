@@ -1,0 +1,4 @@
+I’m sorry to hear that. There could be several reasons why you’re getting this error. It’s possible that the URL you’re using is incorrect or that you don’t have the necessary permissions to access the file. If you’re trying to access a file in a private repository, you’ll need to be authenticated and have permissions to access the repository to access these URLs1.
+You can try using external server rawgithub.com. Just remove a dot between words ‘raw’ and ‘github’ https://raw.github.com/… => https://rawgithub.com/ and use it2.
+If none of these solutions work, you can try copying and pasting the URL instead of clicking on it3.
+I hope this helps! trying to access my github raw file but I am getting “This site can’t be reached”
