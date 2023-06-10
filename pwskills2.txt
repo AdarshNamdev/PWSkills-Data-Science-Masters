@@ -1,0 +1,5 @@
+1.) this is line #1
+2.) this is line #2
+3.) this is line #3
+
+Used writelines() method to added multiple lines at once inside the file. File handling is interesting, it seems!
