@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<h2> Example taken from w3school.com </h2>
+<p><a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table3">HTML Table at W3Schools.com!</a></p>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:70%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>    
+    <th>Country</th>
+    <th>City</th>
+  </tr>
+  <tr>
+    <td>Common Spirit Health</td>
+    <td>Murali Nandula</td>
+    <td>United States of America</td>
+    <td>Chicago</td>    
+  </tr>
+  <tr>
+    <td>Atgier Solutions</td>
+    <td>Adarsh Namdev</td>
+    <td>India</td>
+    <td>Pune</td>    
+  </tr>
+  <tr>
+    <td>NTT Data</td>
+    <td>Vivek Dwivedi</td>
+    <td>India</td>
+    <td>Noida</td>    
+  </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.</p>
+
+</body>
+</html>
